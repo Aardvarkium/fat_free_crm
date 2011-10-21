@@ -22,7 +22,7 @@ require 'capistrano/ext/multistage'
 # REPLACE this below with your git repo
 set :use_sudo, false
 set :deploy_to, "/srv/rails/#{application}"
-set :repository, "git@github.com:Aardvarkium/fat_free_crm-rails.git"
+set :repository, "git@github.com:Aardvarkium/fat_free_crm.git"
 set :scm, :git
 set :branch, "master"
 set :deploy_via, :remote_cache

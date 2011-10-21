@@ -46,3 +46,4 @@ end
 # responds_to_parent,      git://github.com/markcatley/responds_to_parent.git
 gem 'capistrano'
 gem 'capistrano-ext'
+gem 'passenger'
