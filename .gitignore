@@ -1,4 +1,3 @@
-config/*.yml
 !config/database.mysql.linux.yml
 !config/database.mysql.yml
 !config/database.postgres.yml
