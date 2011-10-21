@@ -44,4 +44,5 @@ end
 # is_paranoid,             git://github.com/theshortcut/is_paranoid.git
 # prototype_legacy_helper, git://github.com/rails/prototype_legacy_helper.git
 # responds_to_parent,      git://github.com/markcatley/responds_to_parent.git
-
+gem 'capistrano'
+gem 'capistrano-ext'
